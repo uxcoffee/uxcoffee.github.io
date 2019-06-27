@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hexo常用命令汇总</title>
+      <link href="/2019/06/27/hexo-chang-yong-ming-ling-hui-zong/"/>
+      <url>/2019/06/27/hexo-chang-yong-ming-ling-hui-zong/</url>
+      
+        <content type="html"><![CDATA[<p>这是一篇测试文章，售后我会更新这篇文章的内容，只是现在太晚了。我要早一点休息，保证我明天起床的时候还有精神开展工作。毕竟，建站这件事是一件长远的事情，我们都不可能一口吃成胖子。劳逸结合更有利于我们把事情做好。你说呢？</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo相关 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo相关 </tag>
+            
+            <tag> 命令行 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Matery主题基本美化</title>
+      <link href="/2019/06/27/matery-zhu-ti-ji-ben-mei-hua/"/>
+      <url>/2019/06/27/matery-zhu-ti-ji-ben-mei-hua/</url>
+      
+        <content type="html"><![CDATA[<p>这是一篇测试文章，售后我会更新这篇文章的内容，只是现在太晚了。我要早一点休息，保证我明天起床的时候还有精神开展工作。毕竟，建站这件事是一件长远的事情，我们都不可能一口吃成胖子。劳逸结合更有利于我们把事情做好。你说呢？</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Matery相关 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo相关 </tag>
+            
+            <tag> matery主题相关 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2019/06/26/hello-world/"/>
+      <url>/2019/06/26/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
