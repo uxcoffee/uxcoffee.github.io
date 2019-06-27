@@ -4,33 +4,6 @@
   
     
     <entry>
-      <title>Matery主题基本美化</title>
-      <link href="/2019/06/27/matery-zhu-ti-ji-ben-mei-hua/"/>
-      <url>/2019/06/27/matery-zhu-ti-ji-ben-mei-hua/</url>
-      
-        <content type="html"><![CDATA[<p>这是一篇测试文章，售后我会更新这篇文章的内容，只是现在太晚了。我要早一点休息，保证我明天起床的时候还有精神开展工作。毕竟，建站这件事是一件长远的事情，我们都不可能一口吃成胖子。劳逸结合更有利于我们把事情做好。你说呢？</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Matery相关 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> hexo相关 </tag>
-            
-            <tag> matery主题相关 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hexo常用命令汇总</title>
       <link href="/2019/06/27/hexo-chang-yong-ming-ling-hui-zong/"/>
       <url>/2019/06/27/hexo-chang-yong-ming-ling-hui-zong/</url>
@@ -50,6 +23,33 @@
             <tag> hexo相关 </tag>
             
             <tag> 命令行 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Matery主题基本美化</title>
+      <link href="/2019/06/27/matery-zhu-ti-ji-ben-mei-hua/"/>
+      <url>/2019/06/27/matery-zhu-ti-ji-ben-mei-hua/</url>
+      
+        <content type="html"><![CDATA[<p>这是一篇测试文章，售后我会更新这篇文章的内容，只是现在太晚了。我要早一点休息，保证我明天起床的时候还有精神开展工作。毕竟，建站这件事是一件长远的事情，我们都不可能一口吃成胖子。劳逸结合更有利于我们把事情做好。你说呢？</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Matery相关 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo相关 </tag>
+            
+            <tag> matery主题相关 </tag>
             
         </tags>
       
