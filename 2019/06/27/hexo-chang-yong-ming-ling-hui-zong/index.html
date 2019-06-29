@@ -5,8 +5,8 @@
 <head><meta name="generator" content="Hexo 3.9.0">
     <meta charset="utf-8">
     <meta name="keywords" content="Hexo常用命令汇总, 北冥有鱼">
-    <meta name="description" content="这是一篇测试文章，售后我会更新这篇文章的内容，只是现在太晚了。我要早一点休息，保证我明天起床的时候还有精神开展工作。毕竟，建站这件事是一件长远的事情，我们都不可能一口吃成胖子。劳逸结合更有利于我们把事情做好。你说呢？
-">
+    <meta name="description" content="这篇文章暂时不做大而全的总结，因为 hexo 的命令本身就不是很多，而很大一部分我们搭建好 Hexo 网站后就使用不到了。我们只是记得很少的一部分，就可以满足我们的日常使用。这里就将我自己使用比较高频的命令汇总一下，方便记忆和消化。
+hex">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -422,7 +422,15 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <p>这是一篇测试文章，售后我会更新这篇文章的内容，只是现在太晚了。我要早一点休息，保证我明天起床的时候还有精神开展工作。毕竟，建站这件事是一件长远的事情，我们都不可能一口吃成胖子。劳逸结合更有利于我们把事情做好。你说呢？</p>
+                <p>这篇文章暂时不做大而全的总结，因为 hexo 的命令本身就不是很多，而很大一部分我们搭建好 Hexo 网站后就使用不到了。我们只是记得很少的一部分，就可以满足我们的日常使用。这里就将我自己使用比较高频的命令汇总一下，方便记忆和消化。</p>
+<h1 id="hexo-clean"><a href="#hexo-clean" class="headerlink" title="hexo clean"></a>hexo clean</h1><p>清除缓存:生成新的静态网页之前先清除原来的网页缓存。</p>
+<h1 id="hexo-g-或-hexo-generate"><a href="#hexo-g-或-hexo-generate" class="headerlink" title="hexo g 或 hexo generate"></a>hexo g 或 hexo generate</h1><p>生成新的静态网页</p>
+<h1 id="hexo-s-或-hexo-server"><a href="#hexo-s-或-hexo-server" class="headerlink" title="hexo s 或 hexo server"></a>hexo s 或 hexo server</h1><p>启动服务预览：可以在本地电脑访问 <code>http://localhost:4000</code> 预览生成的网页，快捷键 <code>Ctrl + C</code> 可以关闭服务</p>
+<h1 id="hexo-d"><a href="#hexo-d" class="headerlink" title="hexo d"></a>hexo d</h1><p>部署：将生成的静态网页推送到远程服务器。</p>
+<h1 id="cd-folder"><a href="#cd-folder" class="headerlink" title="cd [folder]"></a>cd [folder]</h1><p>切换文件目录：cd是切换，【folder】在这里是表示文件的目录（路径）。比如从C盘的根目录切到D盘的 <code>hexo</code> 文件夹，需要两步。第一步执行<code>cd D:\hexo</code> ,然后再执行 <code>cd D：</code>。</p>
+<h1 id="hexo-new-“postName”"><a href="#hexo-new-“postName”" class="headerlink" title="hexo new “postName”"></a>hexo new “postName”</h1><p>新建一篇文章。其中postName是你要新建的文章标题，如果标题包含空格的话，需要用引号括起来。</p>
+<h1 id="hexo-new-page-“pageName”"><a href="#hexo-new-page-“pageName”" class="headerlink" title="hexo new page “pageName”"></a>hexo new page “pageName”</h1><p>新建一个页面，其中 pageName 是你要新建的页面名称。</p>
+<p>不定时更新……</p>
 
             </div>
             <hr/>
@@ -609,6 +617,28 @@
     </div>
 
     
+        <link rel="stylesheet" href="/libs/gitalk/gitalk.css">
+<link rel="stylesheet" href="/css/my-gitalk.css">
+
+<div class="card gitalk-card" data-aos="fade-up">
+    <div id="gitalk-container" class="card-content"></div>
+</div>
+
+<script src="/libs/gitalk/gitalk.min.js"></script>
+<script>
+    let gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: '',
+        owner: '',
+        admin: null,
+        id: '2019-06-27T00-48-22',
+        distractionFreeMode: false  // Facebook-like distraction free mode
+    });
+
+    gitalk.render('gitalk-container');
+</script>
+    
 
     
 
@@ -640,8 +670,8 @@
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            这是一篇测试文章，售后我会更新这篇文章的内容，只是现在太晚了。我要早一点休息，保证我明天起床的时候还有精神开展工作。毕竟，建站这件事是一件长远的事情，我们都不可能一口吃成胖子。劳逸结合更有利于我们把事情做好。你说呢？
-
+                            这篇文章暂时不做大而全的总结，因为 hexo 的命令本身就不是很多，而很大一部分我们搭建好 Hexo 网站后就使用不到了。我们只是记得很少的一部分，就可以满足我们的日常使用。这里就将我自己使用比较高频的命令汇总一下，方便记忆和消化。
+hex
                         
                     </div>
                     <div class="publish-info">
@@ -740,6 +770,43 @@ Material Design 设计
 </article>
 </div>
 
+
+<script>
+    $('#articleContent').on('copy', function (e) {
+        // IE8 or earlier browser is 'undefined'
+        if (typeof window.getSelection === 'undefined') return;
+
+        var selection = window.getSelection();
+        // if the selection is short let's not annoy our users.
+        if (('' + selection).length < Number.parseInt('120')) {
+            return;
+        }
+
+        // create a div outside of the visible area and fill it with the selected text.
+        var bodyElement = document.getElementsByTagName('body')[0];
+        var newdiv = document.createElement('div');
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+        bodyElement.appendChild(newdiv);
+        newdiv.appendChild(selection.getRangeAt(0).cloneContents());
+
+        // we need a <pre> tag workaround.
+        // otherwise the text inside "pre" loses all the line breaks!
+        if (selection.getRangeAt(0).commonAncestorContainer.nodeName === 'PRE') {
+            newdiv.innerHTML = "<pre>" + newdiv.innerHTML + "</pre>";
+        }
+
+        var url = document.location.href;
+        newdiv.innerHTML += '<br />'
+            + '来源: 北冥有鱼<br />'
+            + '作者: Action<br />'
+            + '链接: <a href="' + url + '">' + url + '</a><br />'
+            + '本文章著作权归作者所有，任何形式的转载都请注明出处。';
+
+        selection.selectAllChildren(newdiv);
+        window.setTimeout(function () {bodyElement.removeChild(newdiv);}, 200);
+    });
+</script>
 
 
     </div>
@@ -875,7 +942,7 @@ Material Design 设计
 
 
 
-    <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1226831122@qq.com" class="tooltipped" data-tooltip="QQ联系我: 1226831122@qq.com" data-position="top" data-delay="50">
+    <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1226831122" class="tooltipped" data-tooltip="QQ联系我: 1226831122" data-position="top" data-delay="50">
         <i class="fa fa-qq"></i>
     </a>
 
