@@ -457,9 +457,9 @@ $(function () {
         order: 'list',
         preload: 'auto',
         volume: Number('0.7'),
-        listFolded: 'false' === 'true',
+        listFolded: 'true' === 'true',
         listMaxHeight: '',
-        audio: JSON.parse('[{"name":"两仔爷（Cover：吴君如）","artist":"陈文辉","url":"https://music.163.com/#/song?id=1372256145","cover":"/images/20190627145901.jpg"},{"name":"Take me hand","artist":"DAISHI DANCE,Cecile Corbel","url":"/medias/music/music2.mp3","cover":"/medias/music/cover2.png"},{"name":"Shape of You","artist":"J.Fla","url":"http://xxx.com/music3.mp3","cover":"http://xxx.com/music-cover3.png"}]')
+        audio: JSON.parse('[{"name":"中央大街","artist":"赵晨唏","url":"/music/中央大街.mp3","cover":"/images/20190701111302.jpg"},{"name":"青春没有终点","artist":"逃跑计划","url":"/music/青春没有终点.m4a","cover":"/images/20190701113603.jpg"},{"name":"两仔爷（Cover：吴君如）","artist":"陈文辉","url":"/music/两仔爷（Cover：吴君如）.m4a","cover":"/images/20190701110701.jpg"}]')
     });
 });
 </script>
@@ -500,8 +500,9 @@ $(function () {
                     <div class="card-content article-content">
                         <div class="summary block-with-text">
                             
-                                这篇文章暂时不做大而全的总结，因为 hexo 的命令本身就不是很多，而很大一部分我们搭建好 Hexo 网站后就使用不到了。我们只是记得很少的一部分，就可以满足我们的日常使用。这里就将我自己使用比较高频的命令汇总一下，方便记忆和消化。
-hex
+                                hexo cleanhexo s清除缓存:生成新的静态网页之前先清除原来的网页缓存。
+hexo g 或 hexo generatehexo g生成新的静态网页
+hexo s 或 hexo serverhexo启动服务预览：可以在本地电脑访问
                             
                         </div>
                         <div class="publish-info">

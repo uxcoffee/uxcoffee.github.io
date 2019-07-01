@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.oneboke.com/"/>
-  <updated>2019-06-29T15:46:06.419Z</updated>
+  <updated>2019-06-30T05:59:25.251Z</updated>
   <id>http://blog.oneboke.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://blog.oneboke.com/2019/06/27/hexo-chang-yong-ming-ling-hui-zong/"/>
     <id>http://blog.oneboke.com/2019/06/27/hexo-chang-yong-ming-ling-hui-zong/</id>
     <published>2019-06-26T16:48:22.000Z</published>
-    <updated>2019-06-29T15:46:06.419Z</updated>
+    <updated>2019-06-30T05:59:25.251Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,7 @@
       
         
         
-          &lt;p&gt;这篇文章暂时不做大而全的总结，因为 hexo 的命令本身就不是很多，而很大一部分我们搭建好 Hexo 网站后就使用不到了。我们只是记得很少的一部分，就可以满足我们的日常使用。这里就将我自己使用比较高频的命令汇总一下，方便记忆和消化。&lt;/p&gt;
-&lt;h1
+          &lt;h2 id=&quot;hexo-clean&quot;&gt;&lt;a href=&quot;#hexo-clean&quot; class=&quot;headerlink&quot; title=&quot;hexo clean&quot;&gt;&lt;/a&gt;hexo clean&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;hexo
         
       
     
